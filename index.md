@@ -8,7 +8,11 @@ permalink: /
 
 DevOps & Site Reliability Engineer focused on building reliable, scalable, and secure cloud-native platforms across AWS, GCP, and Azure.
 
-[Read Blog](/blog/) | [View Projects](/projects/) | [GitHub](https://github.com/rupinsolanki07)
+<div class="home-links">
+  <a href="{{ '/blog/' | relative_url }}">Read Blog</a>
+  <a href="{{ '/projects/' | relative_url }}">View Projects</a>
+  <a href="https://github.com/rupinsolanki07">GitHub</a>
+</div>
 
 <p>
   <a href="https://github.com/rupinsolanki07">
@@ -35,11 +39,13 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 
 ## Impact Highlights
 
-- Maintained `99.9%` uptime across `30+` production Kubernetes clusters
-- Reduced infrastructure/cloud cost by up to `30%` through autoscaling and rightsizing
-- Improved deployment speed by `35%` with optimized CI/CD and GitOps pipelines
-- Reduced MTTR by `35%` with unified observability and faster issue detection
-- Improved failover readiness with `50%` faster recovery for critical components
+<ul class="highlight-list">
+  <li>Maintained <strong>99.9%</strong> uptime across <strong>30+</strong> production Kubernetes clusters</li>
+  <li>Reduced infrastructure/cloud cost by up to <strong>30%</strong> through autoscaling and rightsizing</li>
+  <li>Improved deployment speed by <strong>35%</strong> with optimized CI/CD and GitOps pipelines</li>
+  <li>Reduced MTTR by <strong>35%</strong> with unified observability and faster issue detection</li>
+  <li>Improved failover readiness with <strong>50%</strong> faster recovery for critical components</li>
+</ul>
 
 ## Tech Stack
 

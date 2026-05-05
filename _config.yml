@@ -1,7 +1,7 @@
 title: Rupin Solanki
 description: DevOps and Site Reliability Engineer
 url: "https://rupinsolanki07.github.io"
-baseurl: ""
+baseurl: "/rupinsolanki07"
 theme: minima
 markdown: kramdown
 plugins:

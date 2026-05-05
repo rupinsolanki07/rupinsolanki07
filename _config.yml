@@ -1,0 +1,12 @@
+title: Rupin Solanki
+description: DevOps and Site Reliability Engineer
+url: "https://rupinsolanki07.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - blog.md
+  - projects.md

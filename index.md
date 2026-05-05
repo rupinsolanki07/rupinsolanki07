@@ -1,6 +1,14 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 # Hi, I'm Rupin Solanki
 
 DevOps & Site Reliability Engineer focused on building reliable, scalable, and secure cloud-native platforms across AWS, GCP, and Azure.
+
+[Read Blog](/blog/) | [View Projects](/projects/) | [GitHub](https://github.com/rupinsolanki07)
 
 <p>
   <a href="https://github.com/rupinsolanki07">
@@ -20,7 +28,7 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 
 ## What I Work On
 
-- Designing and operating production-grade cloud infrastructure
+- Designing and operating production-grade Kubernetes infrastructure
 - Building end-to-end observability with OpenTelemetry, Prometheus, Grafana, Tempo, and Jaeger
 - Automating platform operations using Python, Go, Terraform, and GitOps workflows
 - Improving reliability with SLO-driven engineering, incident reduction, and disaster recovery planning
@@ -36,13 +44,13 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 ## Tech Stack
 
 `Python` `Go` `Bash` `Kubernetes` `Docker` `Helm` `Terraform` `OpenTofu`  
-`GitHub Actions` `Jenkins` `ArgoCD` `GitOps` `Prometheus` `Grafana` `OpenTelemetry`  `Tempo`
+`GitHub Actions` `Jenkins` `ArgoCD` `GitOps` `Prometheus` `Grafana` `OpenTelemetry`  
 `FluentBit` `Jaeger` `Istio` `KEDA` `Karpenter` `AWS` `GCP` `Azure`
 
 ## Experience Snapshot
 
 ### DeepSource — Software Engineer 2 (Feb 2026 – Present)
-- Built an end-to-end observability pipeline for AI and static code analysis workloads.
+- Built an end-to-end observability pipeline for AI and static analysis workloads.
 - Drove infra cost optimization with dynamic autoscaling and workload rightsizing.
 - Established Terraform-based IaC across multiple environments.
 

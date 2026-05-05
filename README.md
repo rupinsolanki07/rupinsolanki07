@@ -39,21 +39,6 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 `GitHub Actions` `Jenkins` `ArgoCD` `GitOps` `Prometheus` `Grafana` `OpenTelemetry`  
 `FluentBit` `Jaeger` `Istio` `KEDA` `Karpenter` `AWS` `GCP` `Azure`
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rupinsolanki07&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupinsolanki07&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=rupinsolanki07&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rupinsolanki07&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
 ## Experience Snapshot
 
 ### DeepSource — Software Engineer 2 (Feb 2026 – Present)

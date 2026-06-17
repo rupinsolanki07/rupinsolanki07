@@ -15,7 +15,7 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 </p>
 
 - Current role: `Software Engineer 2 @ DeepSource`
-- Experience: `4.8+ years` in DevOps/SRE
+- Experience: `4.9+ years` in DevOps/SRE
 - Focus: `Kubernetes`, `Observability`, `IaC`, `CI/CD`, `Distributed Systems`
 
 ## What I Work On

@@ -14,8 +14,8 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
   </a>
 </p>
 
-- Current role: `Software Engineer 2 @ DeepSource`
-- Experience: `4.9+ years` in DevOps/SRE
+- Current role: `Senior Software Engineer @ Finbox`
+- Experience: `5+ years` in DevOps/SRE
 - Focus: `Kubernetes`, `Observability`, `IaC`, `CI/CD`, `Distributed Systems`
 
 ## What I Work On
@@ -27,7 +27,7 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 
 ## Impact Highlights
 
-- Maintained `99.9%` uptime across `30+` production Kubernetes clusters
+- Maintained `99.99%` uptime across `30+` production Kubernetes clusters
 - Reduced infrastructure/cloud cost by up to `30%` through autoscaling and rightsizing
 - Improved deployment speed by `35%` with optimized CI/CD and GitOps pipelines
 - Reduced MTTR by `35%` with unified observability and faster issue detection
@@ -41,7 +41,11 @@ DevOps & Site Reliability Engineer focused on building reliable, scalable, and s
 
 ## Experience Snapshot
 
-### DeepSource — Software Engineer 2 (Feb 2026 – Present)
+### Finbox - Senior Software Engineer (May 2026 - Present)
+- Leading efforts in cost optimization
+- Enabling Observability and SRE initiatives across the Cloud Infra 
+
+### DeepSource — Software Engineer 2 (Feb 2026 – May 2026)
 - Built an end-to-end observability pipeline for AI and static code analysis workloads.
 - Drove infra cost optimization with dynamic autoscaling and workload rightsizing.
 - Established Terraform-based IaC across multiple environments.
